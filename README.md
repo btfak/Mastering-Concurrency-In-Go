@@ -12,7 +12,7 @@ Mastering-Concurrency-In-Go
 
  1.2 [耐心的goroutines](https://github.com/lubia/Mastering-Concurrency-In-Go/blob/master/1.2.md)
 
- 1.3 实现defer控制机制
+ 1.3 [实现defer控制机制](https://github.com/lubia/Mastering-Concurrency-In-Go/blob/master/1.3.md)
 
  1.4 使用Go的调度器
 
