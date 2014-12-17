@@ -1,7 +1,7 @@
 Mastering-Concurrency-In-Go
 ============================
 
-本书为Mastering Concurrency in Go的中文翻译。
+本书为Mastering Concurrency In Go的中文翻译。
 
 
 #### 第1章  Go并发简介
@@ -10,7 +10,7 @@ Mastering-Concurrency-In-Go
 
  1.1 [介绍goroutines](https://github.com/lubia/Mastering-Concurrency-In-Go/blob/master/1.1.md)
 
- 1.2 错误的goroutines
+ 1.2 [错误的goroutines](https://github.com/lubia/Mastering-Concurrency-In-Go/blob/master/1.2.md)
 
  1.3 实现defer控制机制
 
