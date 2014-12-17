@@ -10,7 +10,7 @@ Mastering-Concurrency-In-Go
 
  1.1 [介绍goroutines](https://github.com/lubia/Mastering-Concurrency-In-Go/blob/master/1.1.md)
 
- 1.2 [错误的goroutines](https://github.com/lubia/Mastering-Concurrency-In-Go/blob/master/1.2.md)
+ 1.2 [耐心的goroutines](https://github.com/lubia/Mastering-Concurrency-In-Go/blob/master/1.2.md)
 
  1.3 实现defer控制机制
 
