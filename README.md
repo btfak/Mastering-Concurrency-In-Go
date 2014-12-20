@@ -12,16 +12,15 @@ Mastering-Concurrency-In-Go
 
  1.2 [耐心的goroutines](https://github.com/lubia/Mastering-Concurrency-In-Go/blob/master/1.2.md)
 
- 1.3 [实现defer控制机制](https://github.com/lubia/Mastering-Concurrency-In-Go/blob/master/1.3.md)
+ 1.3 [实践defer控制机制](https://github.com/lubia/Mastering-Concurrency-In-Go/blob/master/1.3.md)
 
  1.4 [使用Go的调度器](https://github.com/lubia/Mastering-Concurrency-In-Go/blob/master/1.4.md)
 
  1.5 [使用系统变量](https://github.com/lubia/Mastering-Concurrency-In-Go/blob/master/1.5.md)
 
+ 1.6 [goroutines VS coroutines](https://github.com/lubia/Mastering-Concurrency-In-Go/blob/master/1.6.md)
 
- 1.6 goroutines VS coroutines
-
- 1.7 实现channels
+ 1.7 [实践channels](https://github.com/lubia/Mastering-Concurrency-In-Go/blob/master/1.7.md)
 
  1.8 使用channels进行排序 
 
